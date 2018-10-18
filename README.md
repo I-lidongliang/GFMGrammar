@@ -1,7 +1,7 @@
 # GFMGrammar
 收集Github Flavored Markdown（GFM）的语法
 
-**标题**
+##标题
 
 # 一级标题
 ## 二级标题
